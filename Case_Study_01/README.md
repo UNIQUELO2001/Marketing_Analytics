@@ -5,6 +5,18 @@
 
 ---
 
+## Live Dashboard
+
+An interactive version of the dashboard is available through Google Looker Studio.
+
+**Dashboard URL**
+
+https://datastudio.google.com/reporting/2d8b1f56-f51a-4fc7-8f25-c59a725a899a
+
+> **Note**
+>
+> This dashboard uses anonymized/public sample data and is intended for portfolio demonstration purposes.
+
 ## Overview
 
 This portfolio project simulates a real-world analytics engagement for an e-commerce business.
